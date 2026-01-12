@@ -1,0 +1,2 @@
+google-generativeai
+playsound==1.2.2
