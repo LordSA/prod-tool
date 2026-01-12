@@ -150,7 +150,12 @@ Found 17 unused old files. Clean now?
 - Python open-source ecosystem
 
 ## Getting Started
+change the gemini key in thala.py
+change to your username of pc in main.py
+
 ````
+git clone https://github.com/LordSA/sudo-clean.git
+
 python3 -m venv venv
 
 source venv/bin/activate
