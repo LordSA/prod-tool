@@ -40,7 +40,7 @@ It translates human-friendly text into executable file system actions using the 
 
 The system integrates a Large Language Model (LLM) to interpret user intent.
 
-**Example Input**
+**Example Input :**
 Clear old zip files in downloads this morning
 
 
@@ -77,7 +77,7 @@ A background thread monitors your Downloads folder.
 - Sends non-intrusive alerts
 - Offers one-click cleanup
 
-**Example Notification**
+**Example Notification :**
 Found 17 unused old files. Clean now?
 
 
