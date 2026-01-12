@@ -1,6 +1,6 @@
-# 🧹 sudo clean
+# 🧹 Sudo clean
 
-**sudo clean** is an intelligent desktop automation tool that eliminates digital clutter using **natural language commands**.  
+**Sudo clean** is an intelligent desktop automation tool that eliminates digital clutter using **natural language commands**.  
 Just tell it what to do — it understands your intent and organizes your files automatically.
 
 > “Clear old zip files from my downloads.”  
