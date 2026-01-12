@@ -149,3 +149,13 @@ Found 17 unused old files. Clean now?
 - Google Gemini API
 - Python open-source ecosystem
 
+##How to run
+````
+python3 -m venv venv
+
+source venv/bin/activate
+
+pip3 install U -r requirements.txt
+
+python main.py
+````
